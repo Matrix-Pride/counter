@@ -1,0 +1,17 @@
+.h-3 {
+    height: 30rem !important;
+}
+
+.mt-counter {
+    margin: 160px;
+}
+
+.middle {
+    font-size: 10rem;
+    position: relative;
+    top: 20px;
+}
+
+.radi{
+    background: radial-gradient(circle farthest-side at bottom center, #0b5ed7 40%, mediumslateblue 50% );
+}
